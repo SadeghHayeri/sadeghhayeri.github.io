@@ -1,0 +1,50 @@
+baseurl: /
+title: My New Hugo Site
+languageCode: en-us
+theme: terminal
+paginate: 5
+params:
+  contentTypeName: posts
+  themeColor: orange
+  showMenuItems: 10
+  showLanguageSelector: false
+  fullWidthTheme: false
+  centerTheme: true
+  autoCover: true
+  showLastUpdated: false
+languages:
+  en:
+    languageName: English
+    title: Sadegh Hayeri
+    subtitle: Sadegh Hayeri personal website
+    owner: Sadegh Hayeri
+    keywords: 'sadeghhayeri, hayerisadegh, sadegh hayeri, sadegh, hayeri'
+    copyright: ''
+    menuMore: Show more
+    readMore: Read more
+    readOtherPosts: Read other posts
+    newerPosts: Newer posts
+    olderPosts: Older posts
+    missingContentMessage: Page not found...
+    missingBackButtonLabel: Back to home page
+    params:
+      logo:
+        logoText: Sadegh Hayeri
+        logoHomeLink: /
+    menu:
+      main:
+        - identifier: about
+          name: About
+          url: /
+          weight: 1
+        - identifier: projects
+          name: Projects
+          url: /projects
+          weight: 2
+        - identifier: cv
+          name: CV
+          url: /sadegh-hayeri-cv.pdf
+          weight: 3
+          params:
+            foo: 1
+
