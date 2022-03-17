@@ -1,4 +1,5 @@
 baseurl: /
+relativeURLs: true
 title: Sadegh Hayeri
 languageCode: en-us
 theme: terminal
