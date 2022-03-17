@@ -3,6 +3,7 @@ title: My New Hugo Site
 languageCode: en-us
 theme: terminal
 paginate: 5
+googleAnalytics: G-7FJ3KVV1GD
 params:
   contentTypeName: posts
   themeColor: orange
