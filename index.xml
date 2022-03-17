@@ -1,11 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>About on Sadegh Hayeri</title><link>/</link><description>Recent content in About on Sadegh Hayeri</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/projects/</guid><description>Hi there Hi, I’m Sadegh Hayeri, currently working as a Software Engineer at Yektanet in the SRE Automation Platform team. I completed my BSc in computer engineering at the University of Tehran. I am also an open-source enthusiast and have created projects that were listed in GitHub trending.
-Interests
-Distributed Computing Computer Systems and Networks Software Engineering</description><content>&lt;h1 id="hi-there">Hi there&lt;/h1>
-&lt;p>Hi, I’m Sadegh Hayeri, currently working as a Software Engineer at &lt;a href="https://www.yektanet.com">Yektanet&lt;/a> in the SRE Automation Platform team. I completed my BSc in computer engineering at the University of Tehran.
-I am also an open-source enthusiast and have created projects that were listed in GitHub trending.&lt;/p>
-&lt;p>Interests&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>About on Sadegh Hayeri</title><link>/</link><description>Recent content in About on Sadegh Hayeri</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Notable Projects</title><link>/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/projects/</guid><description>Cheapsi (closed-source) Android/IOS application for Snapp and Tapsi to save both your money and time. (ReactNative)
+GreenTunnel GreenTunnel bypasses DPI services without changing IP or server endpoints.
+Mili Mili is an open source tool for auto login to MikroTik routers with multi-user support
+SelfBalancingRobot A two-wheel self-balancing robot based on Arduino and RaspberryPi board.</description><content>&lt;ul>
+&lt;li>&lt;strong>Cheapsi&lt;/strong> (closed-source)&lt;/li>
+&lt;/ul>
+&lt;p>Android/IOS application for &lt;a href="https://snapp.ir">Snapp&lt;/a> and &lt;a href="https://tapsi.ir">Tapsi&lt;/a> to save both your money and time. (ReactNative)
+&lt;a href="https://play.google.com/store/apps/details?id=com.cheapsi&amp;amp;hl=en_US">&lt;img src="https://raw.githubusercontent.com/steverichey/google-play-badge-svg/master/img/en_get.svg" alt="Cheapsi">&lt;/a>&lt;/p>
+&lt;hr>
+&lt;hr>
 &lt;ul>
-&lt;li>Distributed Computing&lt;/li>
-&lt;li>Computer Systems and Networks&lt;/li>
-&lt;li>Software Engineering&lt;/li>
-&lt;/ul></content></item></channel></rss>
+&lt;li>&lt;strong>GreenTunnel&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;p>GreenTunnel bypasses DPI services without changing IP or server endpoints.&lt;/p>
+&lt;p>&lt;a href="https://github.com/SadeghHayeri/GreenTunnel">&lt;img src="https://github-readme-stats.vercel.app/api/pin/?username=SadeghHayeri&amp;amp;repo=GreenTunnel" alt="Readme Card">&lt;/a>&lt;/p>
+&lt;hr>
+&lt;hr>
+&lt;ul>
+&lt;li>&lt;strong>Mili&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;p>Mili is an open source tool for auto login to MikroTik routers with multi-user support&lt;/p>
+&lt;p>&lt;a href="https://github.com/SadeghHayeri/Mili">&lt;img src="https://github-readme-stats.vercel.app/api/pin/?username=SadeghHayeri&amp;amp;repo=Mili" alt="Readme Card">&lt;/a>&lt;/p>
+&lt;hr>
+&lt;hr>
+&lt;ul>
+&lt;li>&lt;strong>SelfBalancingRobot&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;p>A two-wheel self-balancing robot based on Arduino and RaspberryPi
+board.&lt;/p>
+&lt;p>&lt;a href="https://github.com/SadeghHayeri/Self-Balancing-Robot">&lt;img src="https://github-readme-stats.vercel.app/api/pin/?username=SadeghHayeri&amp;amp;repo=Self-Balancing-Robot" alt="Readme Card">&lt;/a>&lt;/p>
+&lt;p>Video:
+&lt;a href="https://www.youtube.com/watch?v=qYxYc-RwZ28">&lt;img src="https://img.youtube.com/vi/qYxYc-RwZ28/0.jpg" alt="IMAGE ALT TEXT HERE">&lt;/a>&lt;/p></content></item></channel></rss>
