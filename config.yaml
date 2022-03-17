@@ -47,5 +47,5 @@ languages:
           url: /sadegh-hayeri-cv.pdf
           weight: 3
           params:
-            foo: 1
+            download: sadegh-hayeri-cd.pdf
 

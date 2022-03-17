@@ -3,7 +3,11 @@
     {{ if or $.Site.Params.showMenuItems ( eq .Site.Params.showMenuItems 0 ) }}
       {{ range first $.Site.Params.showMenuItems $.Site.Menus.main }}
         {{ if not .HasChildren }}
+          {{ if .Params.download }}
+          <li><a href="{{ .URL }}" download="{{ .Params.download }}">{{ .Name }}</a></li>
+          {{ else }}
           <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+          {{ end }}
         {{ end }}
       {{ end }}
       {{ if gt (len $.Site.Menus.main) $.Site.Params.showMenuItems }}
@@ -13,7 +17,11 @@
           <ul class="menu__sub-inner-more hidden">
             {{ range last (sub (len $.Site.Menus.main) $.Site.Params.showMenuItems) $.Site.Menus.main }}
               {{ if not .HasChildren }}
+                {{ if in .Params "download" }}
+                <li><a href="{{ .URL }}" download="{{ .Params.download }}">{{ .Name }}</a></li>
+                {{ else }}
                 <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+                {{ end }}
               {{ end }}
             {{ end }}
           </ul>
@@ -22,7 +30,11 @@
     {{ else }}
       {{ range $.Site.Menus.main }}
         {{ if not .HasChildren }}
+          {{ if in .Params "download" }}
+          <li><a href="{{ .URL }}" download="{{ .Params.download }}">{{ .Name }}</a></li>
+          {{ else }}
           <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+          {{ end }}
         {{ end }}
       {{ end }}
     {{ end }}
@@ -45,7 +57,11 @@
   <ul class="menu__inner menu__inner--mobile">
     {{ range $.Site.Menus.main }}
       {{ if not .HasChildren }}
+        {{ if in .Params "download" }}
+        <li><a href="{{ .URL }}" download="{{ .Params.download }}">{{ .Name }}</a></li>
+        {{ else }}
         <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+        {{ end }}
       {{ end }}
     {{ end }}
     {{ if and $.Site.Params.showLanguageSelector (len $.Site.Home.AllTranslations) }}
