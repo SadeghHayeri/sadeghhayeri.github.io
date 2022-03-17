@@ -1,6 +1,8 @@
-# Notable Projects
++++
+title = "Notable Projects"
++++
 
----
+
 - **Cheapsi** (closed-source)
 
 Android/IOS application for [Snapp](https://snapp.ir) and [Tapsi](https://tapsi.ir) to save both your money and time. (ReactNative)
