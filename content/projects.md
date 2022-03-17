@@ -1,14 +1,38 @@
-+++
-title = "About"
-author = "SadeghHayeri"
-+++
+# Notable Projects
 
-# Hi there
+---
+- **Cheapsi** (closed-source)
 
-Hi, I’m Sadegh Hayeri, currently working as a Software Engineer at [Yektanet](https://www.yektanet.com) in the SRE Automation Platform team. I completed my BSc in computer engineering at the University of Tehran.
-I am also an open-source enthusiast and have created projects that were listed in GitHub trending.
+Android/IOS application for [Snapp](https://snapp.ir) and [Tapsi](https://tapsi.ir) to save both your money and time. (ReactNative)
+[![Cheapsi](https://raw.githubusercontent.com/steverichey/google-play-badge-svg/master/img/en_get.svg)](https://play.google.com/store/apps/details?id=com.cheapsi&hl=en_US)
 
-Interests
-- Distributed Computing
-- Computer Systems and Networks
-- Software Engineering
+---
+---
+
+- **GreenTunnel**
+
+GreenTunnel bypasses DPI services without changing IP or server endpoints.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SadeghHayeri&repo=GreenTunnel)](https://github.com/SadeghHayeri/GreenTunnel)
+
+---
+---
+
+- **Mili**
+
+Mili is an open source tool for auto login to MikroTik routers with multi-user support
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SadeghHayeri&repo=Mili)](https://github.com/SadeghHayeri/Mili)
+
+---
+---
+
+- **SelfBalancingRobot**
+
+A two-wheel self-balancing robot based on Arduino and RaspberryPi
+board.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SadeghHayeri&repo=Self-Balancing-Robot)](https://github.com/SadeghHayeri/Self-Balancing-Robot)
+
+Video:
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/qYxYc-RwZ28/0.jpg)](https://www.youtube.com/watch?v=qYxYc-RwZ28)
