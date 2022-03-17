@@ -1,5 +1,6 @@
 +++
 title = "Notable Projects"
+seoTitle = "Projects"
 +++
 
 
@@ -15,7 +16,7 @@ Android/IOS application for [Snapp](https://snapp.ir) and [Tapsi](https://tapsi.
 
 GreenTunnel bypasses DPI services without changing IP or server endpoints.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SadeghHayeri&repo=GreenTunnel)](https://github.com/SadeghHayeri/GreenTunnel)
+[![Green Tunnel Status](https://github-readme-stats.vercel.app/api/pin/?username=SadeghHayeri&repo=GreenTunnel)](https://github.com/SadeghHayeri/GreenTunnel)
 
 ---
 ---
@@ -24,7 +25,7 @@ GreenTunnel bypasses DPI services without changing IP or server endpoints.
 
 Mili is an open source tool for auto login to MikroTik routers with multi-user support
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SadeghHayeri&repo=Mili)](https://github.com/SadeghHayeri/Mili)
+[![Mili Status](https://github-readme-stats.vercel.app/api/pin/?username=SadeghHayeri&repo=Mili)](https://github.com/SadeghHayeri/Mili)
 
 ---
 ---
@@ -34,7 +35,7 @@ Mili is an open source tool for auto login to MikroTik routers with multi-user s
 A two-wheel self-balancing robot based on Arduino and RaspberryPi
 board.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SadeghHayeri&repo=Self-Balancing-Robot)](https://github.com/SadeghHayeri/Self-Balancing-Robot)
+[![Self Balancing Robot Status](https://github-readme-stats.vercel.app/api/pin/?username=SadeghHayeri&repo=Self-Balancing-Robot)](https://github.com/SadeghHayeri/Self-Balancing-Robot)
 
 Video:
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/qYxYc-RwZ28/0.jpg)](https://www.youtube.com/watch?v=qYxYc-RwZ28)
+[![Self Balancing Robot Video](https://img.youtube.com/vi/qYxYc-RwZ28/0.jpg)](https://www.youtube.com/watch?v=qYxYc-RwZ28)

@@ -5,6 +5,7 @@ languageCode: en-us
 theme: terminal
 paginate: 5
 googleAnalytics: G-7FJ3KVV1GD
+enableRobotsTXT: true
 params:
   contentTypeName: posts
   themeColor: orange
@@ -14,6 +15,12 @@ params:
   centerTheme: true
   autoCover: true
   showLastUpdated: false
+  blogFooterLinkText: ""
+  blogSection: ""
+  color: "orange"
+  description: "Sadegh Hayeri personal website"
+  rssTitle: ""
+  seoTitle: "Sadegh Hayeri"
 languages:
   en:
     languageName: English
